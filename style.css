@@ -249,26 +249,26 @@ footer {
     margin-right: 0;
   }
 
-  .blog-box:nth-child(1) {
-    padding-top: 50px;
+  .blog-heading {
+    margin-bottom: 40px;
   }
 
   .blog-box {
-    padding-top: 10px;
+    padding-top: 0;
   }
 
   .blog-image {
     width: 210px;
     height: 210px;
-  } 
+  }
 
-    .blog-date {
+  .blog-date {
       font-size: 16px;
     }
 
   .category {
     display: none;
-  } 
+  }
 
   .pagination {
     padding-top: 10px;
@@ -281,7 +281,7 @@ footer {
 
   .sidebar-contents {
     padding: 50px 5px;
-  }  
+  }
 
   .instagram-box {
     width: 200px;
